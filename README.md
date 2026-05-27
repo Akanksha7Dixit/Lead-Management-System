@@ -17,6 +17,32 @@ This project allows users to:
 
 ---
 
+# 📷 Screenshots
+
+## Dashboard
+
+<img src="./screenshots/dashboard.png.png" width="900" />
+
+---
+
+## Lead Card 1
+
+<img src="./screenshots/lc1.png" width="900" />
+
+---
+
+## Lead Card 2
+
+<img src="./screenshots/lc2.png" width="900" />
+
+---
+
+## Lead Card 3
+
+<img src="./screenshots/lc3.png" width="900" />
+
+---
+
 # ✨ Features
 
 ## Frontend
@@ -178,32 +204,6 @@ http://localhost:3000
 - Call
 - WhatsApp
 - Field
-
----
-
-# 📷 Screenshots
-
-## Dashboard
-
-<img src="./screenshots/dashboard.png.png" width="900" />
-
----
-
-## Lead Card 1
-
-<img src="./screenshots/lc1.png" width="900" />
-
----
-
-## Lead Card 2
-
-<img src="./screenshots/lc2.png" width="900" />
-
----
-
-## Lead Card 3
-
-<img src="./screenshots/lc3.png" width="900" />
 
 ---
 
