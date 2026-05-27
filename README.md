@@ -39,7 +39,7 @@ This project allows users to:
 
 ## Lead Card 3
 
-<img src="./screenshots/lc3.png" width="900" />
+<img src="./screenshots/lc4.png" width="900" />
 
 ---
 
