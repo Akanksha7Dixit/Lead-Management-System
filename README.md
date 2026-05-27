@@ -184,13 +184,26 @@ http://localhost:3000
 # 📷 Screenshots
 
 ## Dashboard
-(Add Screenshot Here)
 
-## Lead Cards
-(Add Screenshot Here)
+<img src="./screenshots/dashboard.png.png" width="900" />
 
-## Filters & Search
-(Add Screenshot Here)
+---
+
+## Lead Card 1
+
+<img src="./screenshots/lc1.png" width="900" />
+
+---
+
+## Lead Card 2
+
+<img src="./screenshots/lc2.png" width="900" />
+
+---
+
+## Lead Card 3
+
+<img src="./screenshots/lc3.png" width="900" />
 
 ---
 
